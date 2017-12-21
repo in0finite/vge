@@ -1,0 +1,8 @@
+
+# binary files
+bin/
+
+# eclipse files
+.settings/
+.classpath
+.project
